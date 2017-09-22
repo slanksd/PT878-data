@@ -1,0 +1,1 @@
+root/data/* -> Y:\EPM\CondAssess\Equipment\PT878\data
